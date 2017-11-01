@@ -1,5 +1,5 @@
 # Resume Website Framework Project
-This is the framework for my resume website. I made it to refer to friends so they can look good at their interviews.
+This is the framework for my resume website. I made it to refer to friends so they can look good at their interviews. To view a sample of what it will look like, click this link: https://codynicholson.github.io/Resume_Website_Framework_Project/
 
 To use this framework to create your resume website, follow these steps:
 
