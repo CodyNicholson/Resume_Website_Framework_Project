@@ -3,7 +3,7 @@ This is the framework for my resume website. I made it to refer to friends so th
 
 To use this framework to create your resume website, follow these steps:
 
-1. Download the project to your computer, then open the **index.html** file with your browser to check that the project is working
+1. Download the project to your computer, then open the **index.html** file with your browser to check that the project is working. As you modify the code in the project, simply reload the page to refresh your changes in the code.
 2. Put all of your information into the **resumeBuilder.js** file in the **js** folder. You can add as many work experiences, projects, educations, honors and awards, and community service sections as you like by separating each block by a comma the same way it is done throughout the file.
 3. Change the pictures by putting your pictures in the images folder, and then referencing them in the **resumeBuilder.js** file the same way it is done throughout the file
 4. Replace the **resume.pdf** placeholder with your resume that is also named **resume.pdf**
