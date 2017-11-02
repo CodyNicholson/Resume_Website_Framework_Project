@@ -1,13 +1,13 @@
 var bio =
 {
-    "name" : "Name",
+    "name" : "Put Name Here",
     "role" : "Undergrad at DePaul University",
     "contacts" :
     {
-        "email" : "email",
-        "github" : "github name",
+        "email" : "Put email here",
+        "github" : "Put github name here",
         "location" : ["Chicago, IL", "Lincoln Park, IL"],
-        "linkedIn" : "linkedIn name"
+        "linkedIn" : "Put linkedIn name here"
     },
     "welcomeMessage" : "This is my résumé webpage where you can find all the details about my skills, experience, and background",
     "skills" :
